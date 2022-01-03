@@ -37,7 +37,7 @@
   },
   "dependencies": {
     "vertcore-lib": "git://github.com/vertcoin-project/vertcore-lib.git",
-    "vertcore-node": "git://github.com/vertcoin-project/vertcore-node.git",
+    "vertcore-node": "git://github.com/cruelnovo/vertcore-node.git",
     "insight-vtc-api": "git://github.com/vertcoin-project/insight-vtc-api.git",
     "insight-vtc-ui": "git://github.com/vertcoin-project/insight-vtc-ui.git"
   },
