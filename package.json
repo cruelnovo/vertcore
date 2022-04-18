@@ -36,10 +36,10 @@
     "url": "https://github.com/vertcoin-project/vertcore.git"
   },
   "dependencies": {
-    "vertcore-lib": "git://github.com/cruelnovo/vertcore-lib.git",
-    "vertcore-node": "git://github.com/cruelnovo/vertcore-node.git",
-    "insight-vtc-api": "git://github.com/cruelnovo/insight-vtc-api.git",
-    "insight-vtc-ui": "git://github.com/vertcoin-project/insight-vtc-ui.git"
+    "vertcore-lib": "https://github.com/cruelnovo/vertcore-lib.git",
+    "vertcore-node": "https://github.com/cruelnovo/vertcore-node.git",
+    "insight-vtc-api": "https://github.com/cruelnovo/insight-vtc-api.git",
+    "insight-vtc-ui": "https://github.com/vertcoin-project/insight-vtc-ui.git"
   },
   "license": "MIT",
   "devDependencies": {
